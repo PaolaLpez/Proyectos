@@ -18,7 +18,7 @@
 
 Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, así como en desarrollo de aplicaciones **Multiplataforma (Móvil y Web)** e integración de servicios mediante **APIs RESTful**. Con formación técnica en la **Universidad Tecnológica del Norte de Guanajuato (UTNG)**, cuento con experiencia en todo el ciclo de vida del software: desde el levantamiento de requerimientos, diseño de interfaces y desarrollo de código, hasta el diseño y ejecución de pruebas para asegurar la máxima calidad y fiabilidad del producto final.
 
-- 🔭 **Especialidad:** Desarrollo **Frontend** (Flutter, interfaces web responsivas) y **Testing / QA** (diseño y ejecución de casos de prueba, pruebas funcionales, pruebas de integración de APIs y validación de UI/UX).
+- 🔭 **Especialidad:** Desarrollo **Frontend** (Flutter, Reacr, interfaces web responsivas) y **Testing / QA** (diseño y ejecución de casos de prueba, pruebas funcionales, pruebas de integración de APIs y validación de UI/UX).
 - 📐 **Metodología y Calidad:** Aseguramiento de calidad, documentación técnica, reporte detallado de incidencias/bugs, diagramas UML y prototipado visual.
 - 🎯 **Objetivo:** Construir y certificar aplicaciones robustas, intuitivas y libres de errores, alineadas a las necesidades del usuario y reglas de negocio.
 
