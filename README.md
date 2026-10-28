@@ -1,7 +1,7 @@
 # ¡Hola! Soy Paola Jaqueline López Mata 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Paola%20López%20Mata&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desarrolladora%20de%20Software%20Multiplataforma%20|%20Frontend%20&%20APIs&descSize=18" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Paola%20López%20Mata&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20&%20QA%20Tester%20|%20Software%20Multiplataforma&descSize=18" alt="Header" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## 👩‍💻 Sobre Mí
 
-Desarrolladora de Software enfocada en soluciones **Multiplataforma (Móvil y Web)**, diseño de interfaces de usuario (**Frontend/UI**) e integración de servicios externos mediante **APIs RESTful**. Con formación técnica en la **Universidad Tecnológica del Norte de Guanajuato (UTNG)**, cuento con experiencia en el ciclo de vida del desarrollo de software: desde el levantamiento de requerimientos, diagramación de arquitectura y prototipado, hasta la implementación del código y despliegue.
+Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, así como en desarrollo de aplicaciones **Multiplataforma (Móvil y Web)** e integración de servicios mediante **APIs RESTful**. Con formación técnica en la **Universidad Tecnológica del Norte de Guanajuato (UTNG)**, cuento con experiencia en todo el ciclo de vida del software: desde el levantamiento de requerimientos, diseño de interfaces y desarrollo de código, hasta el diseño y ejecución de pruebas para asegurar la máxima calidad y fiabilidad del producto final.
 
-- 🔭 **Especialidad:** Desarrollo Frontend con Flutter, interfaces dinámicas y consumo/orquestación de APIs.
-- 📐 **Metodología:** Diseño de propuestas de software, arquitectura de sistemas, diagramas UML y wireframing.
-- 🎯 **Objetivo:** Construir aplicaciones escalables, intuitivas y eficientes centradas en la experiencia del usuario y las reglas de negocio.
+- 🔭 **Especialidad:** Desarrollo **Frontend** (Flutter, interfaces web responsivas) y **Testing / QA** (diseño y ejecución de casos de prueba, pruebas funcionales, pruebas de integración de APIs y validación de UI/UX).
+- 📐 **Metodología y Calidad:** Aseguramiento de calidad, documentación técnica, reporte detallado de incidencias/bugs, diagramas UML y prototipado visual.
+- 🎯 **Objetivo:** Construir y certificar aplicaciones robustas, intuitivas y libres de errores, alineadas a las necesidades del usuario y reglas de negocio.
 
 ---
 
@@ -30,11 +30,12 @@ Desarrolladora de Software enfocada en soluciones **Multiplataforma (Móvil y We
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Frontend & Multiplataforma** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Integraciones & Redes** | ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-| **Entornos & SO** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Análisis y Diseño** | Prototipado UI/UX, Diagramas de Flujo / UML, Documentación Técnica de Software |
+| **Testing & Calidad (QA)** | Pruebas Funcionales, Casos de Prueba, Testing de APIs (Postman), Validación UI/UX, Reporte y Seguimiento de Incidencias |
+| **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **APIs & Redes** | ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| **Control de Versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Análisis y Diseño** | Prototipado UI/UX, Diagramas de Flujo / UML, Especificación de Requerimientos |
 
 </div>
 
@@ -49,7 +50,7 @@ Desarrolladora de Software enfocada en soluciones **Multiplataforma (Móvil y We
   - Registro de ventas rápidas con tickets y cálculo dinámico de cambio.
   - Control de entradas/salidas de producción diaria para minimizar mermas.
   - Reportes de caja, corte diario y trazabilidad de ingresos.
-- **Aporte Técnico:** Modelado de la base de datos, maquetación de interfaces responsivas y control de flujo transaccional.
+- **Aporte Técnico y QA:** Maquetación responsiva, modelado de datos y realización de pruebas funcionales exhaustivas para validar flujos de caja, operaciones transaccionales y manejo de excepciones en cobros.
 
 ---
 
@@ -60,7 +61,7 @@ Desarrolladora de Software enfocada en soluciones **Multiplataforma (Móvil y We
   - Módulo de expediente clínico optométrico con historial de graduación por paciente.
   - Catálogo de productos con variantes (tipo de lente, tratamientos antirreflejantes, marcas de armazón).
   - Facturación/recibos y seguimiento del estado de fabricación en laboratorio.
-- **Aporte Técnico:** Validación de formularios complejos, estructuración de esquemas de datos relacionales y diseño de experiencia de usuario limpia.
+- **Aporte Técnico y QA:** Validación de formularios clínicos complejos, aseguramiento de la integridad de los datos médicos mediante casos de prueba de límites/formatos y diseño de una experiencia de usuario limpia y libre de fricción.
 
 ---
 
@@ -71,14 +72,13 @@ Desarrolladora de Software enfocada en soluciones **Multiplataforma (Móvil y We
   - Consumo asíncrono y deserialización de datos JSON provenientes de múltiples proveedores externos.
   - Búsqueda en tiempo real con filtros avanzados (precios, destinos, disponibilidad de fechas).
   - Manejo robusto de errores de red, caching y optimización de peticiones HTTP para reducir latencia.
-- **Aporte Técnico:** Orquestación de peticiones concurrentes, manejo de estados en frontend y diseño de interfaz visualmente atractiva para el usuario final.
+- **Aporte Técnico y QA:** Orquestación y pruebas de integración de endpoints con Postman (validación de códigos de estado HTTP, payloads y esquemas JSON), gestión reactiva de estados en frontend y testing de estrés en búsquedas concurrentes.
 
 ---
 
 ## 📜 Certificaciones y Especializaciones
 
 - 🌐 **CCNAv7: Introduction to Networks** — *Cisco Networking Academy*
-- 🐧 **Partner: NDG Linux Essentials** — *Network Development Group / Linux*
 - 💻 **IT Essentials: PC Hardware and Software** — *Cisco Networking Academy*
 - 🐍 **Fundamentos de Python 1 & 2** — *Python Institute / Cisco Academy*
 - 🟨 **JavaScript Essentials 1** — *OpenEDG JS Institute*
