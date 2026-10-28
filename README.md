@@ -33,7 +33,7 @@ Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, 
 | **Frontend & Multiplataforma** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Testing & Calidad (QA)** | Pruebas Funcionales, Casos de Prueba, Testing de APIs (Postman), Validación UI/UX, Reporte y Seguimiento de Incidencias |
 | **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **APIs & Redes** | ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| **APIs & Servicios Web** | ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
 | **Control de Versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Análisis y Diseño** | Prototipado UI/UX, Diagramas de Flujo / UML, Especificación de Requerimientos |
 
@@ -78,9 +78,7 @@ Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, 
 
 ## 📜 Certificaciones y Especializaciones
 
-- 🌐 **CCNAv7: Introduction to Networks** — *Cisco Networking Academy*
-- 💻 **IT Essentials: PC Hardware and Software** — *Cisco Networking Academy*
-- 🐍 **Fundamentos de Python 1 & 2** — *Python Institute / Cisco Academy*
+- 🐍 **Fundamentos de Python 1 & 2** — *Python Institute*
 - 🟨 **JavaScript Essentials 1** — *OpenEDG JS Institute*
 
 ---
