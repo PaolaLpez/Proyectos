@@ -1,15 +1,15 @@
 # ¡Hola! Soy Paola Jaqueline López Mata 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Paola%20López%20Mata&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20&%20QA%20Tester%20|%20Software%20Multiplataforma&descSize=18" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff758c,ff7eb3&height=220&section=header&text=Paola%20Jaqueline%20López%20Mata&fontSize=32&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20QA%20Tester&descSize=16&descAlignY=64" alt="Header" width="100%"/>
 </p>
 
 <p align="center">
   <a href="mailto:lopezpao869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lopezpao869%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-lopezpao869%40gmail.com-ff758c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Guanajuato%2C%20M%C3%A9xico-0052CC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Ingl%C3%A9s-A2%20Pre--Intermediate-lightgrey?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Guanajuato%2C%20M%C3%A9xico-e91e63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Ingl%C3%A9s-A2%20Pre--Intermediate-f06292?style=for-the-badge" alt="English"/>
 </p>
 
 ---
@@ -98,10 +98,10 @@ Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, 
 
 <p align="left">
   <a href="mailto:lopezpao869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lopezpao869%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-lopezpao869%40gmail.com-ff758c?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Tel%C3%A9fono-%2B52%20468--179--8532-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/Tel%C3%A9fono-%2B52%20468--179--8532-e91e63?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-San%20Luis%20de%20la%20Paz%2C%20Gto.-blue?style=flat" alt="Ciudad"/>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-San%20Luis%20de%20la%20Paz%2C%20Gto.-f06292?style=flat" alt="Ciudad"/>
 </p>
