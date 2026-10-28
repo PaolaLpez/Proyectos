@@ -18,7 +18,7 @@
 
 Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, así como en desarrollo de aplicaciones **Multiplataforma (Móvil y Web)** e integración de servicios mediante **APIs RESTful**. Con formación técnica en la **Universidad Tecnológica del Norte de Guanajuato (UTNG)**, cuento con experiencia en todo el ciclo de vida del software: desde el levantamiento de requerimientos, diseño de interfaces y desarrollo de código, hasta el diseño y ejecución de pruebas para asegurar la máxima calidad y fiabilidad del producto final.
 
-- 🔭 **Especialidad:** Desarrollo **Frontend** (Flutter, Reacr, interfaces web responsivas) y **Testing / QA** (diseño y ejecución de casos de prueba, pruebas funcionales, pruebas de integración de APIs y validación de UI/UX).
+- 🔭 **Especialidad:** Desarrollo **Frontend** (Flutter, React, interfaces web responsivas) y **Testing / QA** (diseño y ejecución de casos de prueba, pruebas funcionales, pruebas de integración de APIs y validación de UI/UX).
 - 📐 **Metodología y Calidad:** Aseguramiento de calidad, documentación técnica, reporte detallado de incidencias/bugs, diagramas UML y prototipado visual.
 - 🎯 **Objetivo:** Construir y certificar aplicaciones robustas, intuitivas y libres de errores, alineadas a las necesidades del usuario y reglas de negocio.
 
@@ -30,7 +30,7 @@ Desarrolladora de Software con especialidad en **Frontend** y **Testing (QA)**, 
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Frontend & Multiplataforma** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend & Multiplataforma** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Testing & Calidad (QA)** | Pruebas Funcionales, Casos de Prueba, Testing de APIs (Postman), Validación UI/UX, Reporte y Seguimiento de Incidencias |
 | **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **APIs & Servicios Web** | ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
